@@ -3,12 +3,9 @@ import {
   Frontend_skill,
   Full_stack,
   Other_skill,
-  Skill_data,
 } from "@/constants";
-import { transform } from "next/dist/build/swc/generated-native";
 import React from "react";
 import SkillDataProvider from "./sub/SkillDataProvider";
-import image from "next/image";
 import SkillText from "./sub/SkillText";
 
 const Skills = () => {
