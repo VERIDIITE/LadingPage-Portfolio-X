@@ -8,15 +8,6 @@ import {
 
 import { FaYoutube } from "react-icons/fa";
 
-const socialLinks = {
-  youtube: "https://www.youtube.com/channel/UCgZ-xTf9dMqQPWCBwyBHEZw",
-  github: "https://github.com/VERIDIITE",
-  discord: "https://discord.gg/VERIDIITE#3904",
-  instagram: "https://instagram.com/VERIDIITE",
-  linkedin: "https://www.linkedin.com/in/kasam-software-engineer/",
-  email: "mailto:ka276310@gmail.com",
-};
-
 const Footer = () => {
   return (
     <div className="w-full h-full bg-transparent text-gray-200 shadow-lg p-[15px]">
