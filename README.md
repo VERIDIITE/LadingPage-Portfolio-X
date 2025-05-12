@@ -1,4 +1,4 @@
-# Kasam's Space Portfolio 🚀
+# Landing Page - Space Portfolio 🚀
 
 A stellar, interactive personal portfolio website with a space theme built with React, Next.js, and Tailwind CSS to showcase my projects, skills, and journey across the digital universe.
 
